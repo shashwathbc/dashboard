@@ -19,3 +19,16 @@
     padding-top: 60px;
 }
 
+/* npm install -g firebase-tools */
+
+@media screen and (max-width: 768px) {
+    .footer{
+        width: 50%;
+    }
+    .top{
+        flex-direction: column;
+    }
+    
+    
+    }
+    
